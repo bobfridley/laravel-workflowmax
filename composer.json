@@ -1,5 +1,5 @@
 {
-    "name": "bobfridley/workflowmax",
+    "name": "bobfridley/laravel-workflowmax",
     "description": "A WorkFlowMax bridge for Laravel 5",
     "keywords": [
         "laravel",
